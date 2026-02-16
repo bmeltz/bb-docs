@@ -16,11 +16,11 @@ as it grows into a profitable and sustainable event.
 
 Ownership of Big Bond Festival is divided as follows:
 
-- No Ceilings No Floors: \_\_\_%
+- No Ceilings No Floors: 60%
 
-- MadPeople: \_\_\_%
+- MadPeople: 20%
 
-- Lucid Drum & Bass: \_\_\_%
+- Lucid Drum & Bass: 20%
 
 These percentages apply to profits, losses, and voting rights unless
 otherwise agreed in writing.
@@ -36,7 +36,11 @@ Debt repayment priority will be:
 
 2.  Personal advances made by partners
 
-    1.  Please list expenses/payments owed here matt/benny/jordan
+    - Benny: $6,190.94 (2/15/2026)
+
+    - Jordan: $$1,468.73 (2/15/2026)
+
+    - Matt: $1,846.19 (2/15/2026)
 
 3.  Other approved expenses
 
@@ -58,20 +62,12 @@ Big Bond aims to:
 
 - Improve experience and production quality
 
-- Improve artist and vendor pay
-
 - Build long-term brand value
 
-- Operate sustainably without unpaid labor expectations
+- Operate sustainably without uncompensated labor expectations
 
 All partners are expected to contribute time, skills, or resources
 toward these goals.
-
-## **5. Increasing Artist & Vendor Pay**
-
-As revenue increases, a defined percentage of additional profit will be
-allocated to improving artist and vendor compensation before increasing
-partner payouts, when financially feasible.
 
 ## **6. Profit Use & Partner Payouts**
 
@@ -104,19 +100,79 @@ Additional requests beyond this scope (extra revisions, custom
 animations, merch design, etc.) will be compensated at an agreed rate or
 flat bonus per event.
 
-## **9. Changes to Agreement**
+## **9. Voting; Allocation of Votes; Approval Thresholds**
 
-Any changes must be approved by a majority of partners and recorded in
-writing.
+### 9.1 Voting Power
 
-**Signed:**
+All matters submitted to the Members for approval shall be decided by a vote of the Members holding a majority of the total voting shares, unless a greater threshold is expressly required under this Agreement.
 
-No Ceilings
+Voting shares shall be allocated in proportion to each Member’s Percentage Interest, as follows:
 
-No Floors
+- **Mad People LLC** – 20 votes  
+- **Lucid LLC** – 20 votes  
+- **No Ceilings No Floors LLC** – 60 votes  
 
-MadPeople
+A total of 100 votes shall be deemed outstanding.
 
-Lucid Drum & Bass
+---
 
-**Date:** \_\_\_\_\_\_\_\_\_\_\_
+### 9.2 Allocation and Splitting of Votes by a Member
+
+Each Member shall have the right to allocate and cast its voting shares in whole or in part as it determines.
+
+A Member may split its voting shares among multiple positions on any matter. The Company shall recognize fractional or split voting by a Member, and votes shall be counted according to the number of voting shares actually cast in favor of or against a proposal.
+
+For example, if No Ceilings No Floors LLC elects to cast 20 of its 60 votes in favor of a matter and 40 votes against, the partnership shall recognize such allocation, and the votes shall be counted accordingly.
+
+---
+
+### 9.3 Supermajority Approval
+
+The following actions shall require approval of Members holding at least seventy percent (70%) of the total outstanding voting shares:
+
+- Amendment of this Agreement except in cases related to those outlined in section 9.4 (unanimous approval)
+- Merger, consolidation, or sale of substantially all Company assets  
+- Dissolution of the Partnership or the Big Bond project.  
+- Incurrence of investment capital in excess of $3000
+- Any action that would materially dilute a Member’s Percentage Interest  
+
+---
+
+### 9.4 Unanimous Approval
+
+The following actions shall require unanimous approval of all Members:
+
+- Admission of a new Member  
+- Any change to the Percentage Interests of the Members (voting or ownership)
+- Any action that disproportionately affects the rights of a specific Member relative to the others  
+- Any request for members to contribute additional funds which are not expressly contemplated in an approved budget  
+
+---
+
+
+## **Signed:**
+
+**No Ceilings No Floors LLC**
+
+Signature: __________________________________________________________    Date: __________
+
+Signature: __________________________________________________________    Date: __________
+
+Signature: __________________________________________________________    Date: __________
+
+
+
+**MadPeople LLC**
+
+Signature: __________________________________________________________    Date: __________
+
+Signature: __________________________________________________________    Date: __________
+
+Signature: __________________________________________________________    Date: __________
+
+**Lucid Drum & Bass LLC**
+
+Signature: __________________________________________________________    Date: __________
+
+Signature: __________________________________________________________    Date: __________
+
